@@ -18,8 +18,6 @@ The application is built on the **Separation of Concerns** principle and consist
 * **Customer / Auth Service:** Manages user registration, login, authentication, and authorization processes.
 * **Restaurant / Menu Service:** Manages restaurant details, categories, and menu/food items (full CRUD operations).
 * **Order Service:** Handles order creation, real-time status tracking, and order history.
-* **Basket / Cart Service:** A dynamic service managing users' active shopping cart processes.
-
 ---
 
 ## 🚀 Key Technical Features

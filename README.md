@@ -12,7 +12,7 @@ The application is built on the **Separation of Concerns** principle and consist
 
 ### 🌐 Infrastructure Components
 * **Eureka Server (Service Discovery):** The central service registry where all microservices dynamically register and discover each other.
-* **API Gateway:** The single entry point that intercepts all external requests, managing routing, security, and load balancing.
+* **API Gateway:** The single entry point that intercepts all external requests, managing routing and load balancing.
 
 ### ⚙️ Business Logic Services
 * **Customer / Auth Service:** Manages user registration, login, authentication, and authorization processes.

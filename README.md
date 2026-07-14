@@ -32,7 +32,7 @@ The application is built on the **Separation of Concerns** principle and consist
 
 ## 🛠️ Tech Stack
 
-* **Core Framework:** Java, Spring Boot
+* **Core Framework:** Java 21, Spring Boot 3
 * **Microservices Stack:** Spring Cloud Gateway, Netflix Eureka Server
 * **Database:** PostgreSQL (Database-per-Service architecture)
 * **ORM / Data Access:** Spring Data JPA / Hibernate
